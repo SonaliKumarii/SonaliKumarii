@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Sonali Kumari.
 
 ![GitHub followers](https://img.shields.io/github/followers/[Your GitHub Username]?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/[Your GitHub Username]?affiliations=OWNER%2CCOLLABORATOR&style=social)
@@ -22,6 +22,6 @@ While I’m still building my portfolio, here are some of the learning projects 
   
 ## 🌐 Connect with Me
 - [LinkedIn]https://www.linkedin.com/in/sonali-kumari-791b48247/
-- 
+ 
 
 
